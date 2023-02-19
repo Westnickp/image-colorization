@@ -1,0 +1,1 @@
+This folder is for playground code. If you want to try new things, do so in here. Once you have a working version of the code, push it to another directory before continuing to experiment in here.
